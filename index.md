@@ -1,4 +1,4 @@
-![Create SkyBlock LOGO](C:\Users\Knmm9\桌面\Create SkyBlock LOGO.png)
+![Create SkyBlock LOGO](Create SkyBlock LOGO.png)
 
 # Minecraft 1.16.5 Create SkyBlock(創世革命) 安裝 + 伺服器教學
 
@@ -34,7 +34,7 @@
 6. 勾選啟用
 7. 關閉視窗
 
-![MultiMc登入教學](C:\Users\Knmm9\桌面\MultiMc登入教學.png)
+![MultiMc登入教學](MultiMc登入教學.png)
 
 
 
@@ -48,7 +48,7 @@
 6. 點擊OK
 7. 到主畫面點擊右側啟動，即可開始遊玩！
 
-![MultiMc匯入模組教學](C:\Users\Knmm9\桌面\MultiMc匯入模組教學.png)
+![MultiMc匯入模組教學](MultiMc匯入模組教學.png)
 
 
 
@@ -66,7 +66,7 @@
 8. 點擊開啟
 9. 點擊確定
 
-![MultiMc建立模組伺服器教學1](C:\Users\Knmm9\桌面\MultiMc建立模組伺服器教學1.png)
+![MultiMc建立模組伺服器教學1](MultiMc建立模組伺服器教學1.png)
 
 
 
@@ -82,11 +82,11 @@
 
 在次運行**forge-1.16.5-36.1.0.jar**
 
-![MultiMc建立模組伺服器教學2](C:\Users\Knmm9\桌面\MultiMc建立模組伺服器教學2.png)
+![MultiMc建立模組伺服器教學2](MultiMc建立模組伺服器教學2.png)
 
 運行完畢，直接輸入 `stop` 關閉程式
 
-![MultiMc建立模組伺服器教學3](C:\Users\Knmm9\桌面\MultiMc建立模組伺服器教學3.png)
+![MultiMc建立模組伺服器教學3](MultiMc建立模組伺服器教學3.png)
 
 
 
@@ -100,4 +100,4 @@
 4. 全選模組 `Ctrl+A` 複製一份到伺服器資料夾的mods資料夾內
 5. 運行**forge-1.16.5-36.1.0.jar** 即可遊玩！
 
-![MultiMc匯入伺服器模組教學](C:\Users\Knmm9\桌面\MultiMc匯入伺服器模組教學.png)
+![MultiMc匯入伺服器模組教學](MultiMc匯入伺服器模組教學.png)
